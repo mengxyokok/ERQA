@@ -1,0 +1,17 @@
+{
+  "processed": 0,
+  "correct": 0,
+  "accuracy": null,
+  "single_image": {
+    "total": 0,
+    "correct": 0,
+    "accuracy": null
+  },
+  "multi_image": {
+    "total": 0,
+    "correct": 0,
+    "accuracy": null
+  },
+  "by_question_type": {},
+  "output_jsonl": "outputs/eas_qwen36_27_sglang/smoke.jsonl"
+}

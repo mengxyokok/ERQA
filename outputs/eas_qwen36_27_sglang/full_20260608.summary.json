@@ -1,0 +1,58 @@
+{
+  "processed": 400,
+  "correct": 175,
+  "accuracy": 0.4375,
+  "single_image": {
+    "total": 287,
+    "correct": 130,
+    "accuracy": 0.4529616724738676
+  },
+  "multi_image": {
+    "total": 113,
+    "correct": 45,
+    "accuracy": 0.39823008849557523
+  },
+  "by_question_type": {
+    "Action Reasoning": {
+      "total": 72,
+      "correct": 33,
+      "accuracy": 0.4583333333333333
+    },
+    "Multi-view Reasoning": {
+      "total": 37,
+      "correct": 10,
+      "accuracy": 0.2702702702702703
+    },
+    "Other": {
+      "total": 14,
+      "correct": 3,
+      "accuracy": 0.21428571428571427
+    },
+    "Pointing": {
+      "total": 34,
+      "correct": 15,
+      "accuracy": 0.4411764705882353
+    },
+    "Spatial Reasoning": {
+      "total": 84,
+      "correct": 39,
+      "accuracy": 0.4642857142857143
+    },
+    "State Estimation": {
+      "total": 55,
+      "correct": 28,
+      "accuracy": 0.509090909090909
+    },
+    "Task Reasoning": {
+      "total": 38,
+      "correct": 16,
+      "accuracy": 0.42105263157894735
+    },
+    "Trajectory Reasoning": {
+      "total": 66,
+      "correct": 31,
+      "accuracy": 0.4696969696969697
+    }
+  },
+  "output_jsonl": "outputs/eas_qwen36_27_sglang/full_20260608.jsonl"
+}
