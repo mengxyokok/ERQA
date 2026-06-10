@@ -1,5 +1,0 @@
-{"index": 0, "status": 200, "auth_mode": "bearer", "elapsed_sec": 0.24, "question_type": "Trajectory Reasoning", "num_images": 1, "answer": "A", "predicted_letter": "A", "correct": true, "response_text": "A", "error_body": ""}
-{"index": 1, "status": 200, "auth_mode": "bearer", "elapsed_sec": 0.359, "question_type": "Action Reasoning", "num_images": 1, "answer": "B", "predicted_letter": "A", "correct": false, "response_text": "A", "error_body": ""}
-{"index": 2, "status": 200, "auth_mode": "bearer", "elapsed_sec": 0.408, "question_type": "Action Reasoning", "num_images": 1, "answer": "A", "predicted_letter": "A", "correct": true, "response_text": "A", "error_body": ""}
-{"index": 3, "status": 200, "auth_mode": "bearer", "elapsed_sec": 0.334, "question_type": "Trajectory Reasoning", "num_images": 1, "answer": "A", "predicted_letter": "A", "correct": true, "response_text": "A", "error_body": ""}
-{"index": 4, "status": 200, "auth_mode": "bearer", "elapsed_sec": 0.367, "question_type": "Pointing", "num_images": 1, "answer": "D", "predicted_letter": "D", "correct": true, "response_text": "D", "error_body": ""}
